@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+.idea/
+.vs/
+backend/bin
+backend/objbackend/bin/
+backend/obj/
+frontend/node_modules/
+**/*/bin/
+**/*/obj/
+*.db
+*.db-shm
+*.db-wal
+backend_output.log
+frontend_output.log

@@ -1,0 +1,6 @@
+@DebtRecovery.API_HostAddress = http://localhost:5131
+
+GET {{DebtRecovery.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
